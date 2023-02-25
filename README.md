@@ -16,6 +16,12 @@ The project includes detailed documentation on how to use the script, along with
 This script works only on macOS for the moment. Come and contribute to make this script available for Linux and Windows.
 
 
+## To do
+- [ ] Make the script available for Linux
+- [ ] Make the script available for Windows
+- [ ] Add logic for multiple domains in the config.yml file (array) and in the script (for loop)
+
+
 ## Documentation
 
 To use this script, nothing could be easier.
