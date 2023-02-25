@@ -13,9 +13,9 @@ Once the inputs are provided, the script generates the certificate files and sto
 The project includes detailed documentation on how to use the script, along with examples and troubleshooting tips. It also includes a license and a contribution guide for other developers who may want to contribute to the project.
 
 #### Important notes
-1. This script works only on macOS for the moment. Come and contribute to make this script available for Linux and Windows 🤗.
-2. This script is not intended to be used in production. It is only intended to be used for local development purposes.
-3. This script doesn't work for multiple domains. Come and contribute to make this script available for multiple domains 🤗.
+1. This script works only on macOS for the moment. Feel free to come and contribute 🤗 to make this script available for Linux and Windows.
+2. This script is not intended to be used in production. It is only intended to be used for local development purposes
+3. This script doesn't work for multiple domains. Feel free to come and contribute 🤗 to make this script available for multiple domains.
 
 
 
