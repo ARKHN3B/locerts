@@ -1,0 +1,26 @@
+### Mandatory fields
+# The common name of the certificate (e.g. Might Tower)
+common_name:
+# The path to the directory where the certificates will be stored (e.g. ./ssl)
+dest:
+# The domain name of the certificate (e.g. mighttower.local)
+domain:
+
+### Optional fields
+options:
+  # Automatically set to 1850 days by default (5 year certificate)
+  days:
+  # Automatically generated if not provided
+  details:
+    # The country name of the certificate (2 letters, default: JP)
+    country_name:
+    # The state or province name of the certificate (default: Tokyo)
+    state_or_province_name:
+    # The locality name of the certificate (default: Tokyo)
+    locality_name:
+    # The organization name of the certificate (default: Might Tower)
+    organization_name:
+    # The organizational unit name of the certificate (default: Heroes Department)
+    organizational_unit_name:
+  # Useful boolean for multi-tenant apps or apps with subdomains (default: false)
+  subdomain_wildcard: true
